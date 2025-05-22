@@ -17,6 +17,10 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 ![](https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap)
 
 
+## 💬 Contact Info
+- 🟦 LinkedIn - https://www.linkedin.com/in/anthony-torres300/
+- 📫 Mail - torres.anthony2575@gmail.com
+
 <!--
 **anthonyTorres300/anthonyTorres300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
