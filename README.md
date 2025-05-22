@@ -7,7 +7,6 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 - ⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works 
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats & Languages
 
 | GitHub Stats | Top Languages |
 | ------------ | ------------- |
