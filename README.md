@@ -6,6 +6,9 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 - 🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!
 - ⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works 
 
+## 📊 GitHub Stats
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyTonyTorres&show_icons=true&theme=radical)
+
 ## 👨‍💻 Leetcode Stats
 
 ![](https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap)
