@@ -7,7 +7,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 - ⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works 
 
 ## 📊 GitHub Stats
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyTorres300&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyTorres300&layout=compact&theme=radical)
 
 ## 👨‍💻 Leetcode Stats
 
