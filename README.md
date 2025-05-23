@@ -10,7 +10,6 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
   </ul>
 </div>
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
 </div>
@@ -35,12 +34,9 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
 </div>
 
-
-
-
 ## 💬 Contact Info
 
-- 🟦 [LinkedIn](https://www.linkedin.com/in/anthony-torres300/)
+- 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/)
 - 📫 Mail: torres.anthony2575@gmail.com
 
 
