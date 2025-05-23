@@ -2,24 +2,19 @@
 
 I'm an aspiring programmer from Puerto Rico 🇵🇷
 
-## Hi there 👋, I'm Anthony Torres!
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <ul>
+      <li>🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez</li>
+      <li>🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!</li>
+      <li>⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="100" />
+  </div>
+</div>
 
-I'm an aspiring programmer from Puerto Rico 🇵🇷
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez</li>
-        <li>🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!</li>
-        <li>⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" height="100" style="margin-left: 20px;" />
-    </td>
-  </tr>
-</table>
 
 
 <div align="center">
