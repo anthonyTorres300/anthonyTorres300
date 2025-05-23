@@ -13,7 +13,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 | ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyTorres300&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyTorres300&layout=compact&langs_count=10&theme=radical) |
 
 ## 👨‍💻 Leetcode Stats
-<img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="260" style="margin-left: 80px;" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="260"style="margin-left: 80px;" />
 
 
 <div align="center">
