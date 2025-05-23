@@ -15,9 +15,10 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 ## 👨‍💻 Leetcode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap" height="400" />
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="260" style="margin-left: 80px;" />
+  <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap" height="300" />
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="260" style="margin-left: 40px; margin-top: -20px;" />
 </div>
+
 
 ## 💬 Contact Info
 
