@@ -20,8 +20,9 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="60" style="margin: 40px 0;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40" style="margin: 30px 0;" />
 </div>
+
 
 
 ## 💬 Contact Info
