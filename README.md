@@ -2,9 +2,9 @@
 
 I'm an aspiring programmer from Puerto Rico 🇵🇷
 
-- 🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez
-- 🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!
-- ⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works 
+- 🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez  
+- 🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!  
+- ⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works  
 
 ## 📊 GitHub Stats
 
@@ -14,14 +14,16 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 ## 👨‍💻 Leetcode Stats
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap" height="200">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="200" style="margin-left: 40px;">
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap" height="200" />
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="200" style="margin-left: 40px;" />
+</div>
 
 ## 💬 Contact Info
-- 🟦 LinkedIn - https://www.linkedin.com/in/anthony-torres300/
-- 📫 Mail - torres.anthony2575@gmail.com
+
+- 🟦 [LinkedIn](https://www.linkedin.com/in/anthony-torres300/)
+- 📫 Mail: torres.anthony2575@gmail.com
+
 
 <!--
 **anthonyTorres300/anthonyTorres300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
