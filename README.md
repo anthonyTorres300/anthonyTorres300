@@ -15,7 +15,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
 </div>
 
-<img src = "https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width = 35>&nbsp;*** GitHub Stats***
+<img src = "https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width = 35>&nbsp; ***Github Stats***
 
 | GitHub Stats | Top Languages |
 | ------------ | ------------- |
