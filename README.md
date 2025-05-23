@@ -29,7 +29,6 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?ext=heatmap" height="400" />
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="260" style="margin-left: 80px;" />
 </div>
 
 <div align="center">
