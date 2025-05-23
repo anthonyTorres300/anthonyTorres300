@@ -2,19 +2,14 @@
 
 I'm an aspiring programmer from Puerto Rico 🇵🇷
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <ul>
-      <li>🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez</li>
-      <li>🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!</li>
-      <li>⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="100" />
-  </div>
+<div style="overflow: hidden;">
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="100" align="right" style="margin-left: 20px;" />
+  <ul>
+    <li>🌱 I’m currently studying Software Engineering at the University of Puerto Rico, Mayagüez</li>
+    <li>🔭 I’m working on LiDRON (a UAV autonomous landing system) and various personal programming projects!</li>
+    <li>⚡ Fun fact: I'm deeply fascinated by how Artificial Intelligence works</li>
+  </ul>
 </div>
-
 
 
 <div align="center">
