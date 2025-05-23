@@ -36,7 +36,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 ## 💬 Contact Info
 
-- 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/)
+- 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/
 - 📫 Mail: torres.anthony2575@gmail.com
 
 
