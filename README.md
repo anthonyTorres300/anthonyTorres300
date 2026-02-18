@@ -21,7 +21,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="250" align="left"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="280" align="left"/>
 
 <div align="center">
 
