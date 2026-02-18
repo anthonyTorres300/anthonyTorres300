@@ -21,7 +21,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="350" align="left"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="250" align="left"/>
 
 <div align="center">
 
@@ -38,7 +38,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="430" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="230" align="right"/>
 
 - 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/
 - 📫 Mail: torres.anthony2575@gmail.com
