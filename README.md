@@ -38,7 +38,7 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="230" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="130" align="right"/>
 
 - 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/
 - 📫 Mail: torres.anthony2575@gmail.com
