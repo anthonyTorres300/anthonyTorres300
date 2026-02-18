@@ -38,12 +38,10 @@ I'm an aspiring programmer from Puerto Rico 🇵🇷
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="130" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="430" align="right"/>
 
 - 🟦 LinkedIn: https://www.linkedin.com/in/anthony-torres300/
 - 📫 Mail: torres.anthony2575@gmail.com
 - 💼 Portfolio: https://anthonytorres300.github.io/Dev-Portfolio/
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" style="margin: 20px 0;" />
