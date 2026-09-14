@@ -78,17 +78,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
 </div>
-
-### 🧩 Problem Solving
-
-<div align="center">
-  <a href="https://leetcode.com/TonyTonyTorres/">
-    <img src="https://leetcard.jacoblin.cool/TonyTonyTorres?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" width="550" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="380" />
-</div>
